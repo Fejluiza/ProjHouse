@@ -1,17 +1,5 @@
-# Recipes
+Projeto de uma casa desenvolvido em CSS
 
- ![preview]
- 
- - 
+Utilizando e praticando as ferramentas para estudo e aprimorar os conhecimentos da linguagem.
 
-## Acesso
- [Clique aqui para acessar! :)]
-
-## Tecnologias
-
-- HTML
-- CSS
-- Git e Github
-
-#
-
+![image](https://github.com/user-attachments/assets/b9862020-fc7e-4114-94ae-6979e12e6466)
